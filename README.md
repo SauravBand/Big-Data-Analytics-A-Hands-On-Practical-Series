@@ -29,12 +29,13 @@ This repository contains a series of practical notebooks covering key topics in 
 - Jupyter Notebook environment
 - (Optional) Interest in large-scale data systems
 
-🛠 Tools & Technologies Used (Based on Code)
+🛠 Tools & Technologies Used
 Category	Tools / Libraries
 Programming	Python, Jupyter Notebook
 Data Handling	pandas, numpy
 Visualization	matplotlib, seaborn
-Environment	Jupyter (possibly local or Colab)
+ML & Data Mining	Weka
+Environment	Jupyter Notebook, Google Colab (optional)
 
 ## 📥 Clone the Repository
 
