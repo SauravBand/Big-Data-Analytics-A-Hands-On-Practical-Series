@@ -29,6 +29,13 @@ This repository contains a series of practical notebooks covering key topics in 
 - Jupyter Notebook environment
 - (Optional) Interest in large-scale data systems
 
+🛠 Tools & Technologies Used (Based on Code)
+Category	Tools / Libraries
+Programming	Python, Jupyter Notebook
+Data Handling	pandas, numpy
+Visualization	matplotlib, seaborn
+Environment	Jupyter (possibly local or Colab)
+
 ## 📥 Clone the Repository
 
 ```bash
